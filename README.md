@@ -14,7 +14,7 @@
 <a href="http://www.ajaxvideotutorials.com/V12Videos/ux_amazon_s3_1.swf">Watch Video - Part 1</a><br>
 <a href="http://www.ajaxvideotutorials.com/V12Videos/ux_amazon_s3_2.swf">Watch Video - Part 2</a><br>
 
- In this next vide we show how you can make an Ajax callback after all of the files have been uploaded. By making an Ajax Callback this action can be used as a replacement for the 'File Upload - User Defined' action in Action Javascript:
+ In this next video we show how you can make an Ajax callback after all of the files have been uploaded. By making an Ajax Callback this action can be used as a replacement for the 'File Upload - User Defined' action in Action Javascript:
 
 <a href="http://www.ajaxvideotutorials.com/V12Videos/ux_upload_s3_ajaxcallback_after_upload.swf">Watch Video - Part 1</a>
 
