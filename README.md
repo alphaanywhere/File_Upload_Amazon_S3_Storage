@@ -13,7 +13,7 @@
 
 
 <a href="http://www.ajaxvideotutorials.com/V12Videos/ux_amazon_s3_1.swf">Watch Video - Part 1</a><br>
-<a href="http://www.ajaxvideotutorials.com/V12Videos/ux_amazon_s3_2.swf">Watch Video - Part 2</a>
+<a href="http://www.ajaxvideotutorials.com/V12Videos/ux_amazon_s3_2.swf">Watch Video - Part 2</a><br>
 Download Component 
 
  Date added: 2014-12-31
